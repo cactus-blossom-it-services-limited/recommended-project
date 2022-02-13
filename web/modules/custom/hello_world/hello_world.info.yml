@@ -1,0 +1,5 @@
+name: Hello World
+type: module
+description: "Test module for wodby repository deployment"
+package: Test
+core_version_requirement: ^8 || ^9
